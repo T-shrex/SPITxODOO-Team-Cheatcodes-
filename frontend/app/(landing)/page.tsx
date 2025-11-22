@@ -82,8 +82,16 @@ export default function LandingPage() {
           <div className="hidden md:block">
             <div className="bg-gradient-to-br from-primary/20 to-accent/20 rounded-2xl border border-border p-8 aspect-square flex items-center justify-center">
               <div className="text-center">
-                <BarChart3 className="w-24 h-24 text-primary mx-auto mb-4 opacity-50" />
-                <p className="text-foreground/60">Real-time Dashboard</p>
+                {/* Replaced BarChart3 icon with dashboard image */}
+                <Image
+                  src="/dashboard-screenshot.png" // Save your dashboard image as public/dashboard-screenshot.png
+                  alt="Dashboard Preview"
+                  width={350}
+                  height={200}
+                  className="mx-auto rounded-xl shadow-lg object-contain"
+                  priority
+                />
+                <p className="text-foreground/60 mt-4">Real-time Dashboard</p>
               </div>
             </div>
           </div>

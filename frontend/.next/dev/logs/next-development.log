@@ -10,3 +10,22 @@
 [00:04:39.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:04:39.827] Browser WARN    Image with src "http://localhost:3000/quicktrace-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
 [00:05:21.999] Server  LOG      ✓ Compiled in 101ms
+[00:12:03.843] Browser WARN    Image with src "http://localhost:3000/quicktrace-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:36:31.999] Server  LOG      ✓ Compiled in 166ms
+[00:37:14.919] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:15.402] Browser WARN    Image with src "http://localhost:3000/quicktrace-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:38:12.987] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:13.196] Browser WARN    Image with src "http://localhost:3000/quicktrace-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:38:13.196] Browser WARN    Image with src "http://localhost:3000/dashboard-screenshot.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:38:26.812] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:27.137] Browser WARN    Image with src "http://localhost:3000/quicktrace-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:38:27.137] Browser WARN    Image with src "http://localhost:3000/dashboard-screenshot.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:19.357] Server  LOG      ✓ Compiled in 316ms
+[00:39:52.127] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:52.329] Browser WARN    Image with src "http://localhost:3000/quicktrace-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:39:52.329] Browser WARN    Image with src "http://localhost:3000/dashboard-screenshot.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative.
+[00:40:35.764] Browser WARN    Image with src "http://localhost:3000/dashboard-screenshot.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:48.990] Server  LOG      ✓ Compiled in 97ms
+[00:44:43.643] Server  LOG      ✓ Compiled in 337ms
+[00:45:23.502] Server  LOG      ✓ Compiled in 251ms
+[00:49:11.685] Server  LOG      ✓ Compiled in 132ms
